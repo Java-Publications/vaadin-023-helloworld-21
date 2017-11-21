@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modules/helloworld-modules.iml" filepath="$PROJECT_DIR$/modules/helloworld-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/microkernel/helloworld-modules-microkernel.iml" filepath="$PROJECT_DIR$/modules/microkernel/helloworld-modules-microkernel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/trainer/helloworld-modules-trainer.iml" filepath="$PROJECT_DIR$/modules/trainer/helloworld-modules-trainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/trainer/api/helloworld-modules-trainer-api.iml" filepath="$PROJECT_DIR$/modules/trainer/api/helloworld-modules-trainer-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/trainer/backend/helloworld-modules-trainer-backend.iml" filepath="$PROJECT_DIR$/modules/trainer/backend/helloworld-modules-trainer-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/trainer/ui/helloworld-modules-trainer-ui.iml" filepath="$PROJECT_DIR$/modules/trainer/ui/helloworld-modules-trainer-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/vaadin/helloworld-modules-vaadin.iml" filepath="$PROJECT_DIR$/modules/vaadin/helloworld-modules-vaadin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vaadin-023-helloworld-21.iml" filepath="$PROJECT_DIR$/.idea/vaadin-023-helloworld-21.iml" />
+    </modules>
+  </component>
+</project>
